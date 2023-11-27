@@ -1,0 +1,37 @@
+/*
+.nav-link{
+    position: relative;
+}
+.nav-link::after{
+    content: '';
+transition: all 0.2s;
+height: 2px;
+width: 100%;
+border-bottom: 1px;
+color: red;
+position: absolute;
+opacity: 0;
+}
+.nav-link:hover::after{
+    opacity: 1;
+}*/
+.nav-link-with-hover1:hover {
+ color: #fc6ca1;
+ transition: all 0.4s;
+}
+.nav-link-with-hover2:hover {
+ color: #f9a688;
+ transition: all 0.4s;
+}
+.nav-link-with-hover3:hover {
+ color: #fc6ca1;
+ transition: all 0.4s;
+
+}
+.instagram-hover{
+margin-left:650px;
+}
+.instagram-hover:hover{
+  color: #f9a688;  
+  transition: all 0.4s;
+}
