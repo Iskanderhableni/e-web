@@ -14,7 +14,22 @@ opacity: 0;
 }
 .nav-link:hover::after{
     opacity: 1;
-}*/
+}
+.nav{
+    
+        position: fixed;
+        width: 100%;
+        top: 0;
+        padding: 20px;
+        height: 110px;
+        z-index: 1;
+       transition-timing-function: ease-in ;
+       transition: all 0.5s;
+}
+.nav_color-transition{
+    background-color: #EDEAE0; 
+}
+*/
 .nav-link-with-hover1:hover {
  color: #fc6ca1;
  transition: all 0.4s;

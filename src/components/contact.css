@@ -1,0 +1,30 @@
+.forms-container{
+    width: 1000px;
+    margin-top: 80px;
+}
+.forms{
+    width: 500px;
+}
+.fl{
+    margin-right: 180px;
+}
+.fl_name{
+    margin-right:160px;
+}
+.fl_mail{
+    margin-right: 360px;
+}
+.fl_msg{
+    margin-right: 410px;
+}
+.btn{
+    margin-left: 420px;
+}
+
+.iframe{
+
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
